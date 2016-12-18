@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">zxing_demo</string>
+    <string name="start_barcode_scan">扫描二维码</string>
+</resources>
